@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Cypress Demo",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "cypress": "^12.17.3"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "npx cypress open"
   },

@@ -1,0 +1,111 @@
+{
+  "componentChunkName": "component---src-templates-careers-list-js",
+  "path": "/careers/",
+  "result": {
+    "data": {
+      "allMdx": {
+        "nodes": [
+          {
+            "frontmatter": {
+              "slug": "react-developer",
+              "title": "React Developer",
+              "location": "Remote",
+              "employmentType": "Full-time",
+              "salary": ""
+            }
+          },
+          {
+            "frontmatter": {
+              "slug": "qa-engineer",
+              "title": "QA Engineer",
+              "location": "(Remote)",
+              "employmentType": "Full-time",
+              "salary": ""
+            }
+          },
+          {
+            "frontmatter": {
+              "slug": "dot-net-developer",
+              "title": ".NET Developer",
+              "location": "Ukraine (Remote)",
+              "employmentType": "Full-time",
+              "salary": ""
+            }
+          }
+        ]
+      },
+      "locales": {
+        "edges": [
+          {
+            "node": {
+              "ns": "about-page",
+              "data": "{\"Who we are\":\"Who we are\",\"Solvexus was founded end of 2017 in Rotterdam, a down-to-earth Dutch port city, with lots of positive energy.\":\"Solvexus was founded end of 2017 in Rotterdam, a down-to-earth Dutch port city, with lots of positive energy.\",\"Ever since we have been making leading-edge products for various industries, like logistics, commodity trading, and shipping. In 2022 we started to be involved in more challenging B2C projects as well.\":\"Ever since we have been making leading-edge products for various industries, like logistics, commodity trading, and shipping. In 2022 we started to be involved in more challenging B2C projects as well.\",\"We are fully committed to our projects, we only go for projects where we have an edge. On some occasions, we venture along with some of the brightest people and ideas. And while we do it, we sure have fun too.\":\"We are fully committed to our projects, we only go for projects where we have an edge. On some occasions, we venture along with some of the brightest people and ideas. And while we do it, we sure have fun too.\",\"Want to fill in this cell?\":\"Want to fill in this cell?\"}",
+              "language": "en"
+            }
+          },
+          {
+            "node": {
+              "ns": "careers-pages",
+              "data": "{\"We’re hiring!\":\"We’re hiring!\",\"Don’t see a position for you? Feel free to drop us a line.\":\"Don’t see a position for you? Feel free to drop us a line.\",\"Back\":\"Back\",\"FULL NAME\":\"FULL NAME\",\"OPTIONAL\":\"OPTIONAL\",\"PHONE NUMBER\":\"PHONE NUMBER\",\"TELL US ABOUT YOURSELF\":\"TELL US ABOUT YOURSELF\",\"ATTACH YOUR CV\":\"ATTACH YOUR CV\",\"Submit\":\"Submit\",\"Something went wrong\":\"Something went wrong\",\"Thank you!\":\"Thank you!\",\"Your application is already in our mailbox.\":\"Your application is already in our mailbox.\"}",
+              "language": "en"
+            }
+          },
+          {
+            "node": {
+              "ns": "cases-pages",
+              "data": "{\"Our works\":\"Our works\",\"Go to website\":\"Go to website\"}",
+              "language": "en"
+            }
+          },
+          {
+            "node": {
+              "ns": "contact-pages",
+              "data": "{\"Our office\":\"Our office\",\"Our emails\":\"Our emails\",\"Hello!\":\"Hello!\",\"I'm\":\"I'm\",\"YOUR NAME\":\"YOUR NAME\",\"from\":\"from\",\"COMPANY NAME\":\"COMPANY NAME\",\"I’d like to talk to you.\":\"I’d like to talk to you.\",\"YOUR MESSAGE\":\"YOUR MESSAGE\",\"Contact me back at\":\"Contact me back at\",\"YOUR EMAIL\":\"YOUR EMAIL\",\"We’ll get back to you\":\"We’ll get back to you\",\"Go to home page\":\"Go to home page\"}",
+              "language": "en"
+            }
+          },
+          {
+            "node": {
+              "ns": "pages-names",
+              "data": "{\"Home\":\"Home\",\"About\":\"About\",\"Cases\":\"Cases\",\"Services\":\"Services\",\"Careers\":\"Careers\",\"Contact\":\"Contact\",\"Get in touch\":\"Get in touch\",\"Get In Touch\":\"Get In Touch\"}",
+              "language": "en"
+            }
+          },
+          {
+            "node": {
+              "ns": "services-page",
+              "data": "{\"What we do\":\"What we do\",\"Everything starts with a good idea and a problem worth solving. We guide you in leveraging the power of digital solutions and help you create a solid strategy. Our team of strategists help to you define and implement a strategy that provides a competitive advantage and challenges the market.\":\"Everything starts with a good idea and a problem worth solving. We guide you in leveraging the power of digital solutions and help you create a solid strategy. Our team of strategists help to you define and implement a strategy that provides a competitive advantage and challenges the market.\",\"Great digital solutions require exceptional user experiences and effective interfaces. Our team understands that an intelligent design is essential to create products that your users will love. Applying different techniques, such as extensive user research, prototyping and competition analysis, our team understands what is needed to deliver meaningful products and provide the best fitting solution for your challenge.\":\"Great digital solutions require exceptional user experiences and effective interfaces. Our team understands that an intelligent design is essential to create products that your users will love. Applying different techniques, such as extensive user research, prototyping and competition analysis, our team understands what is needed to deliver meaningful products and provide the best fitting solution for your challenge.\",\"Our people love to create products leveraging the latest technologies and innovations in software development. Having a multi-disciplinary and diverse team, we are well-equipped to develop the most fitting solution to your challenge, whether it is web apps, mobile apps or blockchain technologies. We always strive to exceed expectations.\":\"Our people love to create products leveraging the latest technologies and innovations in software development. Having a multi-disciplinary and diverse team, we are well-equipped to develop the most fitting solution to your challenge, whether it is web apps, mobile apps or blockchain technologies. We always strive to exceed expectations.\",\"In a world with an ever-increasing pace of technologic developments, we understand that days of simple webhosting are over. Our team is specialized in delivering products that are cloud based. We can help your organization to work with different providers such as Microsoft Azure, Google Cloud and Amazon Web Services.\":\"In a world with an ever-increasing pace of technologic developments, we understand that days of simple webhosting are over. Our team is specialized in delivering products that are cloud based. We can help your organization to work with different providers such as Microsoft Azure, Google Cloud and Amazon Web Services.\",\"We like the concept of having “skin in the game” and would be happy to discuss venturing opportunities for you next business idea. We can help on strategic, technological, and financial level.\":\"We like the concept of having “skin in the game” and would be happy to discuss venturing opportunities for you next business idea. We can help on strategic, technological, and financial level.\"}",
+              "language": "en"
+            }
+          },
+          {
+            "node": {
+              "ns": "index-page",
+              "data": "{\"We are a multi-disciplinary team of project managers, entrepreneurs, designers, and developers from various countries.\":\"We are a multi-disciplinary team of project managers, entrepreneurs, designers, and developers from various countries.\",\"Case\":\"Case\",\"Industry\":\"Industry\",\"What we did\":\"What we did\",\"Strategy\":\"Strategy\",\"Design\":\"Design\",\"Development\":\"Development\",\"Cloud\":\"Cloud\",\"Venturing\":\"Venturing\",\"Open position\":\"Open position\",\"Location\":\"Location\",\"Employment type\":\"Employment type\",\"Salary\":\"Salary\",\"Apply\":\"Apply\",\"Learn more\":\"Learn more\",\"View services\":\"View services\",\"View all vacancies\":\"View all vacancies\",\"Back to top\":\"Back to top\"}",
+              "language": "en"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "language": "en",
+      "i18n": {
+        "language": "en",
+        "languages": [
+          "en",
+          "nl",
+          "ua"
+        ],
+        "defaultLanguage": "en",
+        "generateDefaultLanguagePage": false,
+        "routed": false,
+        "originalPath": "/careers/",
+        "path": "/careers/"
+      }
+    }
+  },
+  "staticQueryHashes": [
+    "45326706"
+  ]
+}

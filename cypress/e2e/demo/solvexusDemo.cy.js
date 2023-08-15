@@ -13,15 +13,12 @@ describe('Demo tests', () => {
         cy.invokeDefaultBeforeScript()
     })
 
-
     it('Main page basic verification', () => {
         basePage.getAboutButton().should("be.visible")
         basePage.getServicesButton().should("be.visible")
         basePage.getCareersButton().should("be.visible")
         basePage.getGetInTouchButton().should("be.visible")
     })
-
-
 
     it('Get in touch form verification', () => {
         basePage.getGetInTouchButton()
@@ -51,6 +48,4 @@ describe('Demo tests', () => {
             aboutPage.verifyPersonPresent(name)
         })
     );
-
-
 })

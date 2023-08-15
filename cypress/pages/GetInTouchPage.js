@@ -7,8 +7,8 @@ class GetInTouchPage extends BasePage {
         messageInput: () => cy.get("textArea[name*=message]"),
         emailInput: () => cy.get("input[name*=email]"),
         submitButton: () => cy.get("button.get-in-touch__button-submit").contains("Submit"),
-
     }
+
     getYourNameInput() {
         return this.elements.yourNameInput()
     }
@@ -25,12 +25,9 @@ class GetInTouchPage extends BasePage {
         return this.elements.emailInput()
     }
 
-
     getSubmitButton() {
         return this.elements.submitButton()
     }
-
 }
-
 
 export default GetInTouchPage

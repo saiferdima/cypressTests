@@ -1,0 +1,23 @@
+{
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "description": "Cypress Demo",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiferdima/cypressTests.git"
+  },
+  "author": "Dmytro Popazov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saiferdima/cypressTests/issues"
+  },
+  "homepage": "https://github.com/saiferdima/cypressTests#readme"
+}
